@@ -1,0 +1,12 @@
+Kim 10
+John 32
+Eddy 103
+Gyuchan 23
+Alana 77
+Jay 98
+Samuel 26
+Billy 32
+Chase 203
+Michael 157
+Eric 48
+Derrick 0
